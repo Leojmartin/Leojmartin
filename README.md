@@ -1,7 +1,4 @@
-- 👋 Hi, I'm  Leonardo Martin, B.S. Applied Mathematics Major, and Data Scientist, enthusiast. 
-
-  Nowadays working as a Finance Analyst and Data Scientist in Community Detection problems.
-  
+- 👋 Hi, I'm  Leonardo Martin, B.S. Applied Mathematics Major, and Data Scientist, enthusiast.   
 - 👀 Always looking for new challenges.
 - 📫 You can reach me through my email, leojmartin21@gmail.com
   
