@@ -1,5 +1,4 @@
-- 👋 Hi, I'm  Leonardo Martin, B.S. Applied Mathematics Major, and Data Scientist, enthusiast.   
-- 👀 Always looking for new challenges.
+- 👋 Hi, I'm  Leonardo Martin, B.S. Applied Mathematics Major, and Data Scientist, enthusiast.
 - 📫 You can reach me through my email, leojmartin21@gmail.com
   
   Linkedin profile, https://www.linkedin.com/in/leonardomartin101/
