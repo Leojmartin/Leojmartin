@@ -1,4 +1,4 @@
-- 👋 Hi, I'm  Leonardo Martin, B.S. Applied Mathematics Major, and Data Scientist, enthusiast.
+- 👋 Hi, I'm  Leonardo Martin a Data Scientist with experience leading projects and teams from planning to execution, and with skills to communicate results effectively and clearly. Strong foundation in data analysis and visualization, and Machine Learning using tools such as AWS, Python, SQL, Power BI, and Power Pivot
 - 📫 You can reach me through my email, leojmartin21@gmail.com
   
   Linkedin profile, https://www.linkedin.com/in/leonardomartin101/
